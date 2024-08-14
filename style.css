@@ -68,3 +68,10 @@ ul{
     display: none;
     margin-top: 10px;
 }
+small{
+    font-size: small;
+}
+
+#cuervo-img{
+    width: 30px;
+}
